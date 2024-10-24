@@ -1,6 +1,5 @@
 # Smart Push-to-Talk (PTT) Web Application for Real-Time Class Discussions using Websockets.
 
-## Goal: 
 Design and implement a Push-to-Talk (PTT) web application using WebSockets. The application will allow multiple clients (students) to press a button to stream live audio (their voice) to a server (instructor’s machine). 
 
 ## Requirements:
